@@ -1,0 +1,248 @@
+[
+  {
+    "homeTeam": "Napoli",
+    "awayTeam": "Modena",
+    "date": "10 Ago",
+    "time": "21:15"
+  },
+  {
+    "homeTeam": "Hellas Verona",
+    "awayTeam": "Napoli",
+    "date": "18 Ago",
+    "time": "18:30"
+  },
+  {
+    "homeTeam": "Napoli",
+    "awayTeam": "Bologna",
+    "date": "25 Ago",
+    "time": "20:45"
+  },
+  {
+    "homeTeam": "Napoli",
+    "awayTeam": "Parma",
+    "date": "31 Ago",
+    "time": "20:45"
+  },
+  {
+    "homeTeam": "Cagliari",
+    "awayTeam": "Napoli",
+    "date": "15 Set",
+    "time": "18:00"
+  },
+  {
+    "homeTeam": "Juventus",
+    "awayTeam": "Napoli",
+    "date": "21 Set",
+    "time": "18:00"
+  },
+  {
+    "homeTeam": "Napoli",
+    "awayTeam": "Palermo",
+    "date": "26 Set",
+    "time": "21:00"
+  },
+  {
+    "homeTeam": "Napoli",
+    "awayTeam": "Monza",
+    "date": "29 Set",
+    "time": "20:45"
+  },
+  {
+    "homeTeam": "Napoli",
+    "awayTeam": "Como",
+    "date": "04 Ott",
+    "time": "18:30"
+  },
+  {
+    "homeTeam": "Empoli",
+    "awayTeam": "Napoli",
+    "date": "20 Ott",
+    "time": "12:30"
+  },
+  {
+    "homeTeam": "Napoli",
+    "awayTeam": "Lecce",
+    "date": "26 Ott",
+    "time": "15:00"
+  },
+  {
+    "homeTeam": "Milan",
+    "awayTeam": "Napoli",
+    "date": "29 Ott",
+    "time": "20:45"
+  },
+  {
+    "homeTeam": "Napoli",
+    "awayTeam": "Atalanta",
+    "date": "03 Nov",
+    "time": "12:30"
+  },
+  {
+    "homeTeam": "Inter",
+    "awayTeam": "Napoli",
+    "date": "10 Nov",
+    "time": "20:45"
+  },
+  {
+    "homeTeam": "Napoli",
+    "awayTeam": "Roma",
+    "date": "24 Nov",
+    "time": "18:00"
+  },
+  {
+    "homeTeam": "Torino",
+    "awayTeam": "Napoli",
+    "date": "01 Dic",
+    "time": "15:00"
+  },
+  {
+    "homeTeam": "Lazio",
+    "awayTeam": "Napoli",
+    "date": "05 Dic",
+    "time": "21:00"
+  },
+  {
+    "homeTeam": "Napoli",
+    "awayTeam": "Lazio",
+    "date": "08 Dic",
+    "time": "20:45"
+  },
+  {
+    "homeTeam": "Udinese",
+    "awayTeam": "Napoli",
+    "date": "14 Dic",
+    "time": "18:00"
+  },
+  {
+    "homeTeam": "Genoa",
+    "awayTeam": "Napoli",
+    "date": "21 Dic",
+    "time": "18:00"
+  },
+  {
+    "homeTeam": "Napoli",
+    "awayTeam": "Venezia",
+    "date": "29 Dic",
+    "time": "15:00"
+  },
+  {
+    "homeTeam": "Fiorentina",
+    "awayTeam": "Napoli",
+    "date": "04 Gen",
+    "time": "18:00"
+  },
+  {
+    "homeTeam": "Napoli",
+    "awayTeam": "Hellas Verona",
+    "date": "12 Gen",
+    "time": "20:45"
+  },
+  {
+    "homeTeam": "Atalanta",
+    "awayTeam": "Napoli",
+    "date": "19 Gen",
+    "time": "15:00"
+  },
+  {
+    "homeTeam": "Napoli",
+    "awayTeam": "Juventus",
+    "date": "26 Gen",
+    "time": "15:00"
+  },
+  {
+    "homeTeam": "Roma",
+    "awayTeam": "Napoli",
+    "date": "02 Feb",
+    "time": "15:00"
+  },
+  {
+    "homeTeam": "Napoli",
+    "awayTeam": "Udinese",
+    "date": "09 Feb",
+    "time": "15:00"
+  },
+  {
+    "homeTeam": "Lazio",
+    "awayTeam": "Napoli",
+    "date": "16 Feb",
+    "time": "15:00"
+  },
+  {
+    "homeTeam": "Como",
+    "awayTeam": "Napoli",
+    "date": "23 Feb",
+    "time": "15:00"
+  },
+  {
+    "homeTeam": "Napoli",
+    "awayTeam": "Inter",
+    "date": "02 Mar",
+    "time": "15:00"
+  },
+  {
+    "homeTeam": "Napoli",
+    "awayTeam": "Fiorentina",
+    "date": "09 Mar",
+    "time": "15:00"
+  },
+  {
+    "homeTeam": "Venezia",
+    "awayTeam": "Napoli",
+    "date": "16 Mar",
+    "time": "15:00"
+  },
+  {
+    "homeTeam": "Napoli",
+    "awayTeam": "Milan",
+    "date": "30 Mar",
+    "time": "15:00"
+  },
+  {
+    "homeTeam": "Bologna",
+    "awayTeam": "Napoli",
+    "date": "06 Apr",
+    "time": "15:00"
+  },
+  {
+    "homeTeam": "Napoli",
+    "awayTeam": "Empoli",
+    "date": "13 Apr",
+    "time": "15:00"
+  },
+  {
+    "homeTeam": "Monza",
+    "awayTeam": "Napoli",
+    "date": "20 Apr",
+    "time": "15:00"
+  },
+  {
+    "homeTeam": "Napoli",
+    "awayTeam": "Torino",
+    "date": "27 Apr",
+    "time": "15:00"
+  },
+  {
+    "homeTeam": "Lecce",
+    "awayTeam": "Napoli",
+    "date": "04 Mag",
+    "time": "15:00"
+  },
+  {
+    "homeTeam": "Napoli",
+    "awayTeam": "Genoa",
+    "date": "11 Mag",
+    "time": "15:00"
+  },
+  {
+    "homeTeam": "Parma",
+    "awayTeam": "Napoli",
+    "date": "18 Mag",
+    "time": "15:00"
+  },
+  {
+    "homeTeam": "Napoli",
+    "awayTeam": "Cagliari",
+    "date": "25 Mag",
+    "time": "15:00"
+  }
+]
